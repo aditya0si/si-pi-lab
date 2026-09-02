@@ -1,0 +1,10 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: ls -lh sim/eye_33ohm.png sim/eye_0ohm.png sim/saturn_calc.png sim/*.asc
+      - run: cat docs/SI_PI_Report.md | head -20
+

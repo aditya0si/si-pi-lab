@@ -1,5 +1,7 @@
 # si-pi-lab — Signal & Power Integrity Lab
 
+[![CI](https://github.com/aditya0si/si-pi-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/aditya0si/si-pi-lab/actions)
+
 <p align="center">
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-0ea5e9?style=flat-square)](https://aditya0si.github.io/si-pi-lab/)
