@@ -1,6 +1,8 @@
 # si-pi-lab — Signal & Power Integrity Lab
 
 <p align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-0ea5e9?style=flat-square)](https://aditya0si.github.io/si-pi-lab/)
   <img src="https://img.shields.io/badge/SI-eye%20312mV-success?style=flat-square" />
   <img src="https://img.shields.io/badge/PI-%3C10m%CE%A9-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/crosstalk--35.2dB-blue?style=flat-square" />
